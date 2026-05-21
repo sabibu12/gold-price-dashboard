@@ -38,8 +38,8 @@ with col1:
 
 with col2:
     st.image(
-        "assets\gold_banner.jpg",
-        use_container_width=True
+    "assets/gold_banner.jpg",
+    use_container_width=True
     )
 
 # PROJECT INFORMATION
